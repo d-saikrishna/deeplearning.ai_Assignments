@@ -6,7 +6,7 @@ This specialisation consists of 5 courses.
 # Course-1: Neural Networks and Deep Learning
 
 ## Week-1:
-1. Quiz-1
+1. [Quiz-1 - Introduction to deep learning](https://github.com/d-saikrishna/deeplearning.ai_Assignments/blob/master/Neural%20Networks%20and%20Deep%20Learning/Quiz-1%20_%20Introduction%20to%20deep%20learning.pdf)
 
 ## Week-2:
 1. Quiz-2
